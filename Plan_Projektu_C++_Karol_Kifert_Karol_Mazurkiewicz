@@ -1,0 +1,31 @@
+K&K Civilization
+Projekt tworzony w dwie osoby będzie grą strategiczną 2D, zrobioną na silniku 
+Unreal Engine 4. Singleplayer rozgrywka polegająca na zajęciu całej mapy. 
+Świat będzie losowo generowany, najprawdopodobniej skryptem w Pythonie. 
+Nałożone będą ograniczenia co do wielkości i ilości kontynentów oraz basenów
+wodnych wokół nich. Gra będzie się zaczynać od wyboru ilości A.I. (3-5). 
+Następnie przedstawiony zostanie przebieg rozgrywki (planujemy napisać 
+tutorial przed faktyczną rozgrywką), mianowicie głównym systemem w grze 
+będzie tzw. "Nastawienie", które będzie zależne od takich czynników, jak: 
+morale ludzi w państwie, ilość prowadzonych wojen/sojuszy, rozwój technologiczny, 
+zamożność państwa i rozwój gospodarki oraz poboczne losowo generowane misje (eventy).
+Po krótkim wprowadzeniu skrypt przypisze Nastawienie do botów i zacznie się sam gameplay. 
+Będzie on polegał na podejmowaniu decyzji o rozwoju państwa i podejścia do zajęcia całego świata. 
+Będzie możliwy wolny wybór co do Nastawienia w trakcie rozgrywki i będzie się on odpowiednio 
+zmieniał wraz z jej przebiegiem. Nastawienie będzie ukazane w formie kolorowego paska 
+od zielonego do czarnego, oznaczającego odpowiednio pokojowe lub agresywne Nastawienie. 
+Każda podjęta decyzja będzie miała wpływ na Nastawienie, co może skutkować np. 
+zablokowaniem zawarcia sojuszu z innymi państwami na poziomie czerwonym. 
+Jeśli chodzi o funkcjonalność A.I., to będzie ona działać w taki sposób, że jeden z botów 
+(gracz nie wie, który) będzie podejmować stosunkowo poprawne decyzje i będzie 
+"głównym przeciwnikiem", podczas gdy reszta nie będzie prowadzić rozgrywki na takim poziomie. 
+Będzie dostępność do jednostek, które będą mogły się dowolnie poruszać 
+po lądzie lub w późniejszych etapach gry drogami wodnymi w różnych celach, 
+takich jak wojna czy zawarcie sojuszu. Na początku projektu zaczniemy od skryptu 
+na generowanie mapy oraz stworzenia prostego menu gry (1-2 tydzień). Kolejnym krokiem 
+będzie stworzenie A.I. i sprawdzenie ich działania na mapie (czy gra będzie w stanie 
+sama działać bez gracza 3-5 tydzień). Po tym nastąpi wprowadzenie gracza razem z mechanikami gry, 
+takimi jak poruszanie się czy layout w trakcie rozgrywki (6-12 tydzień). 
+W ostatnie 3 tygodnie przed prezentacją projektu planujemy naprawić ewentualne niedociągnięcia i 
+dopracować całą grę, aby działała tak, jak tego oczekujemy.
+
