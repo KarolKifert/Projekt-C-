@@ -1,0 +1,5 @@
+2022/11/12-15:48:35.072 d9c Reusing MANIFEST D:/Projekt/Daynnight/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/12-15:59:21.027 2c5c Level-0 table #5: started
+2022/11/12-15:59:21.030 2c5c Level-0 table #5: 8024 bytes OK
+2022/11/12-15:59:21.032 2c5c Delete type=0 #3
+2022/11/12-15:59:21.033 2c5c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
