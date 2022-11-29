@@ -1,0 +1,12 @@
+Raport #1 (14.11.2022)
+
+-Dodaliśmy menu gry (najprawdopodobiej zostanie ono zmienione)
+-Dodaliśmy "test area" do narzędzia "foliage"
+-Zrobiliśmy mechanizm cyklu dnia i nocy
+-Dodaliśmy test "eventu" (gracz staje w miejscu x -> zatrzymanie ruchu słońca, gracz staje w miejscu y -> wznowienie ruchu słońca)
+-Rezygnujemy z generowania mapy PTG, ze względu na płatne pluginy (zamiast korzystać z tej metody, zrobimy własną mapę, co niestety będzie trudniejsze)
+
+Raport #2 (29.11.2022 przepraszamy za spóźnienie, aktualizacje projektu dodaliśmy zgodnie z terminem (28.11), niestety zapomnieliśmy dodać raport)
+
+-Stworzyliśmy mapę gry. (Jest to duży krok w projekcie)
+-Mapa jest przygotowana do kolejnych kroków, czyli dodania wzgórz, dolin oraz biomów.
