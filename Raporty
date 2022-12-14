@@ -10,3 +10,11 @@ Raport #2 (29.11.2022 przepraszamy za spóźnienie, aktualizacje projektu dodali
 
 -Stworzyliśmy mapę gry. (Jest to duży krok w projekcie)
 -Mapa jest przygotowana do kolejnych kroków, czyli dodania wzgórz, dolin oraz biomów.
+
+Raport #3 (12.12.2022)
+
+-Zoptymalizowaliśmy "cykl dnia i nocy" oraz dodaliśmy zmiane tekstury nieba w nocy na gwiazdy
+-Zaimplementowaliśmy w.w. system do głównej mapy
+-Stworzyliśmy (jeszcze nie zaimplementowaliśmy) podstawowy system poruszania się w grze
+-Przenieśliśmy projekt z Unreal Engine 5.0 -> 5.1 To ważne, gdyż korzystamy z narzędzia foliage, które po aktualizacji
+jest znacznie lepiej z optymalizowane
