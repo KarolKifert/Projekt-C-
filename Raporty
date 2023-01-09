@@ -18,3 +18,8 @@ Raport #3 (12.12.2022)
 -Stworzyliśmy (jeszcze nie zaimplementowaliśmy) podstawowy system poruszania się w grze
 -Przenieśliśmy projekt z Unreal Engine 5.0 -> 5.1 To ważne, gdyż korzystamy z narzędzia foliage, które po aktualizacji
 jest znacznie lepiej z optymalizowane
+
+Raport #4 (09.01.2023)
+
+-Upiększenie mapy
+-Zrobiliśmy podstawowe UI (zostanie zmienione w końcowe fazie projektu)
